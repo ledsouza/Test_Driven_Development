@@ -4,7 +4,7 @@ Projeto Python para estudos de testes automatizados com práticas de TDD
 
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **Test Driven Development**
 | :label: Tecnologias | python (pytest)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
